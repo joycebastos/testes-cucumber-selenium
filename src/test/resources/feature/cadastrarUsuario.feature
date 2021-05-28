@@ -25,6 +25,3 @@ Funcionalidade: Cadastrar Novo Usuário
     E preenchi o email com "teste@hotmail.com"
     Quando preencher o CPF com  "51162967000100"
     Então devo receber um alerta CPF inválido
-
-
-

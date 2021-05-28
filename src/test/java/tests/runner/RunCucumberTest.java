@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         format = { "pretty","html: cucumber-html-reports",
                 "json: cucumber-html-reports/cucumber.json" },
         dryRun = false,
-        glue = "tests.steps" )
+        glue = {"tests.steps"})
 
 public class RunCucumberTest {
 
